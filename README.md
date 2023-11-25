@@ -1,6 +1,6 @@
 # marketing_campaign
 
-🌐 The dataset shows customer behavior in response to different marketing campaigns <br> &emsp;&nbsp; Particularly focusing on whether customers made purchases in two different campaigns (Campaign A & Campaign B).
+🌐 The dataset shows customer behavior in response to different marketing campaigns <br> &emsp;&nbsp; Particularly focusing on whether customers chose to make a purchase in two different campaigns.
 
 ### 💪 Statistical analysis is performed on the data
 - **Descriptive Stats**: To measure the central tendency and variability of continuous variables in the data
